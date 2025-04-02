@@ -1,0 +1,25 @@
+🧑‍💻 Unit Test - 3 Instructions
+🔗 Figma Design: https://www.figma.com/design/oUMdhhVPMf4IBzZZRRstft/Barabari-Collective-CSS-Assignment
+
+📌 Follow the Figma design exactly. Ensure pixel-perfect matching, correct color codes, and full responsiveness.
+
+🦯 Guidelines:
+✅ Use semantic HTML tags like <section>, <footer>, and <nav> for better structure.
+✅ Ensure proper indentation and clean code formatting.
+✅ Use CSS variables for consistent styling (e.g., colors, fonts, spacing).
+✅ Avoid inline styles; keep all styling in the CSS file.
+✅ Forms should include proper placeholders, required attributes, and focus effects.
+✅ Ensure buttons and links are functional and styled as per the design.
+
+📱 Responsive Design:
+✅ Use media queries to adapt the layout for different screen sizes.
+✅ Mobile: Adjust font sizes, spacing, and navigation for smaller screens.
+✅ Tablet: Ensure proper scaling and alignment of elements.
+✅ Desktop: Maintain the original structure and layout.
+
+⏺️ Key Focus Areas:
+✅ Form Section: Ensure all inputs, dropdowns, and the textarea are styled and functional.
+✅ Footer Section: Align content properly and ensure responsiveness.
+✅ Responsiveness: Test the design on mobile, tablet, and desktop views.
+
+⏳ Goal: Create a clean, responsive, and functional webpage that matches the provided structure and guidelines!
